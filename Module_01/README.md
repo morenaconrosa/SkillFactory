@@ -1,5 +1,5 @@
 # SkillFactory
-Folder "Module_01"
+Folder "Module_0"
 
 Приветствую всех, кто читает этот документ!
 
