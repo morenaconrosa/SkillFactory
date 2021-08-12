@@ -1,4 +1,5 @@
-# SkillFactory
+# SkillFactory - Anna Pogosyan (morenaconrosa) on Kaggle, url: (https://www.kaggle.com/morenaconrosa/competitions), e-mail: pogosyanannar@gmail.com
+
 Приветствую! В данной папке содержится файл "Pogosyan_SF-tripadvisor-rating_v.2.1.ipynb" с итоговой работой по третьему юниту. Также содержится данный сопроводительный документ и прилагается файл с DF "main_task.csv", sample_submission.csv, submission.csv.
 
 Задача данного проекта, по моему мнению состояла в том, чтобы закрепить и продемонстрировать усвоение материалов работы по теме разведывательного анализа данных, визуализации данных, в целом по Pandas, осуществление предобработки данных, использование кодировок, работа с пропусками (ура!), создание новых признаков и ML "не трогая руками код")))
