@@ -15,6 +15,5 @@
 ### Этапы работы:
 - [Анализ датасета и скоринговая модель (ноутбук с кодом)](https://github.com/morenaconrosa/SkillFactory/blob/main/Module_05/Pogosyan_Anna_Credit_Scoring.ipynb)
 - [Итоговый файл submission на основе построенной модели (csv)](https://github.com/morenaconrosa/SkillFactory/blob/main/Module_05/submission.csv)
-- [Файл в формате .csv](https://github.com/morenaconrosa/SkillFactory/blob/main/Module_04/Anapa_winter_flights.csv)
 - [Файл тренировочной выборки (csv-формат)](https://github.com/morenaconrosa/SkillFactory/blob/main/Module_05/train.csv)
 - [Файл тестовой выборки (csv-формат)](https://github.com/morenaconrosa/SkillFactory/blob/main/Module_05/test.csv)
